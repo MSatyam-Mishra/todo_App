@@ -15,9 +15,9 @@ UI of  a simple TODO App
 <a href="https://dribbble.com/shots/7528647-Mobile-Wallpaper?utm_source=Clipboard_Shot&utm_campaign=yihsuanlu&utm_content=Mobile%20Wallpaper&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=yihsuanlu&utm_content=Mobile%20Wallpaper&utm_medium=Social_Share
 " title="Background">day and night Background/Wallpaper image from Yihsuan </a>
 
-<b><h1>screenshot :</h1></b>
-![compppp](https://user-images.githubusercontent.com/12216430/162202401-cd1d3254-887f-4395-a1c1-9f9b9f103cc1.jpg)
 
+
+![preview](https://user-images.githubusercontent.com/12216430/162230329-88f260b1-6a1d-49cd-80e7-62641b49b332.jpg)
 
 
 
